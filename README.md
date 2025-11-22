@@ -60,13 +60,4 @@ This project is configured for easy deployment on **Cloudflare Pages**.
 
 Cloudflare will automatically build and deploy your site. Any future pushes to the `main` branch will trigger a new deployment.
 
-### `wrangler.toml`
-A `wrangler.toml` file is included if you prefer to use the Cloudflare Wrangler CLI for deployment:
-
-```toml
-name = "ev-quiz"
-pages_build_output_dir = "dist"
-compatibility_date = "2024-11-22"
-```
-
 Built with Google Antigravity.
