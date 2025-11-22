@@ -68,3 +68,5 @@ name = "ev-quiz"
 pages_build_output_dir = "dist"
 compatibility_date = "2024-11-22"
 ```
+
+Built with Google Antigravity.
