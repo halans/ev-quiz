@@ -74,7 +74,7 @@ export const recommendations = {
         title: "The Family SUV",
         description: "Space and versatility for the whole family.",
         examples: [
-            "Tesla Model Y (Long Range, Performance)",
+            "Tesla Model Y (Long Range)",
             "BYD Atto 3",
             "Kia EV6 (Air, GT-Line)",
             "Volvo XC40 Recharge / EX40",
