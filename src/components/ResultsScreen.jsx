@@ -83,7 +83,7 @@ const ResultsScreen = ({ scores, onRestart }) => {
                                     onMouseEnter={(e) => e.target.parentElement.style.transform = 'translateX(5px)'}
                                     onMouseLeave={(e) => e.target.parentElement.style.transform = 'translateX(0)'}
                                 >
-                                    {car} <span style={{ float: 'right', opacity: 0.4 }}>🔍</span>
+                                    {car}
                                 </a>
                             </li>
                         ))}
