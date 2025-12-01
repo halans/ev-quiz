@@ -22,7 +22,7 @@ To run this project on your local machine:
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/halans/ev-quiz
     cd ev-quiz
     ```
 
