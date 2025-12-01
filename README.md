@@ -1,6 +1,6 @@
-# EV Life Matchmaker
+# EV Life EV Matchmaker
 
-**EV Life Matchmaker** is an interactive web application designed to help prospective electric vehicle buyers in Australia find their perfect car match. By answering a few simple questions about driving habits, budget, and lifestyle, users receive a tailored recommendation with specific model suggestions available in the Australian market.
+**EV Life EV Matchmaker** is an interactive web application designed to help prospective electric vehicle buyers in Australia find their perfect EV match. By answering a few simple questions about driving habits, budget, and lifestyle, users receive a tailored recommendation with specific model suggestions available in the Australian market.
 
 ## Features
 
@@ -22,7 +22,7 @@ To run this project on your local machine:
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/halans/ev-quiz
     cd ev-quiz
     ```
 
