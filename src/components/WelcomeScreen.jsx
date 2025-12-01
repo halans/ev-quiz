@@ -87,7 +87,7 @@ const WelcomeScreen = ({ onStart }) => {
                 textAlign: 'center'
             }}>
                 <p>
-                    &copy; 2025 <a href="https://electricvehicle.life" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'underline' }}>EV Life</a> - EV Matchmaker.
+                    &copy; 2025 <a href="https://electricvehicle.life" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'underline' }}>EV Life</a> - EV Matchmaker - <a href="https://chat.electricvehicle.life" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'underline' }}>EV Chat</a>.
                 </p>
             </footer>
         </div>

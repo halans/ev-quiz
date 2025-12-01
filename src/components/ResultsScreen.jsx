@@ -97,24 +97,46 @@ const ResultsScreen = ({ scores, onRestart }) => {
 
             {/* Useful Links Section */}
             <div style={{ borderTop: '1px solid rgba(0,0,0,0.1)', paddingTop: '2rem' }}>
-                <h3 style={{ fontSize: '1.1rem', color: '#334155', marginBottom: '1rem' }}>Useful Resources</h3>
+                <h3 style={{ fontSize: '1.1rem', color: '#334155', marginBottom: '1rem' }}>Continue with</h3>
                 <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center', flexWrap: 'wrap' }}>
                     <a
-                        href="https://www.aaa.asn.au/research-data/electric-vehicle/"
+                        href="https://chat.electricvehicle.life"
                         target="_blank"
                         rel="noopener noreferrer"
                         style={{ color: 'var(--primary-color)', textDecoration: 'none', fontWeight: '500' }}
                     >
-                        AAA EV Research & Data →
-                    </a><br />
+                        EV Life EV Chat →
+                    </a>
+
+                </div>
+                <h3 style={{ fontSize: '1.1rem', color: '#334155', marginBottom: '1rem' }}>Other Useful Resources</h3>
+                <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center', flexWrap: 'wrap' }}>
                     <a
                         href="https://electricvehiclecouncil.com.au/"
                         target="_blank"
                         rel="noopener noreferrer"
                         style={{ color: 'var(--primary-color)', textDecoration: 'none', fontWeight: '500' }}
                     >
-                        Electric Vehicle Council →
+                        Electric Vehicle Council
+                    </a><br />
+                    <a
+                        href="https://www.aeva.asn.au"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        style={{ color: 'var(--primary-color)', textDecoration: 'none', fontWeight: '500' }}
+                    >
+                        Australian Electric Vehicle Association
                     </a>
+                    <a
+                        href="https://www.aaa.asn.au/research-data/electric-vehicle/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        style={{ color: 'var(--primary-color)', textDecoration: 'none', fontWeight: '500' }}
+                    >
+                        AAA EV Research & Data
+                    </a>
+
+                    
                 </div>
             </div>
         </div>
